@@ -8,5 +8,6 @@ img = cv.imread('fotos/test_image.jpg')
 
 #abrindo a janela com o nome result e a imagem 
 cv.imshow('result', img)
+
 #Apos a imagem subir espera aperta qualquer tecla para fechar a janela 
 cv.waitKey(0)
